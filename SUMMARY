@@ -1,0 +1,1 @@
+拦掉 Gboard 自带的语言 / 布局切换，把切语言交还给系统输入法框架（与 BetterZUIKey），并加入标点管线、引号括号自动补全与中文态 Enter 不误提交 / Block Gboard's own language/layout switching so the system input method framework (and BetterZUIKey) drives it instead, plus a punctuation pipeline, quote/bracket auto-pairing and a Chinese-mode Enter fix
